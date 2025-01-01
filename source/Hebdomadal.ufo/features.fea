@@ -1,0 +1,26 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\A \a \B \b \C \c \D \d \E \e \F \f \G \g \H \h \I \i \J \j \K \k \L \l \M \m \N \n \O \o 
+	\P \p \Q \q \R \r \S \s \T \t \U \u \space \V \v \W \w \X \x \Y \y \Z \z \zero \one \two \three 
+	\four \five \six \seven \eight \nine \ampersand \at \underscore \asterisk 
+	\paragraph \section \sterling \cent \percent \question \exclam \dollar \yen 
+	\numbersign \braceleft \braceright \bracketleft \bracketright \parenleft 
+	\parenright \period \comma \colon \semicolon \slash \backslash \quotedbl 
+	\quotesingle \hyphen \plus \equal \less \greater \asciicircum \grave \bar 
+	\asciitilde \exclamdown \questiondown \guillemotleft \guillemotright \uni00A0 
+	\minus \endash \emdash \multiply \divide \Agrave \Aacute \Acircumflex \Atilde 
+	\Adieresis \Aring \AE \agrave \aacute \acircumflex \atilde \adieresis \aring \ae 
+	\Ccedilla \ccedilla \Egrave \Eacute \Ecircumflex \Edieresis \egrave \eacute 
+	\ecircumflex \edieresis \Igrave \Iacute \Icircumflex \Idieresis \igrave \iacute 
+	\icircumflex \idieresis \Eth \eth \Ntilde \ntilde \Ograve \Oacute \Ocircumflex 
+	\Otilde \Odieresis \Oslash \ograve \oacute \ocircumflex \otilde \odieresis 
+	\oslash \Ugrave \Uacute \Ucircumflex \Udieresis \ugrave \uacute \ucircumflex 
+	\udieresis \Yacute \yacute \ydieresis \thorn \Thorn \germandbls \copyright 
+	\registered \degree ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
