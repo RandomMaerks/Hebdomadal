@@ -6,6 +6,8 @@ This typeface is a part of a design series I hosted on Instagram since the begin
 
 The font is free & open-source (although I may not accept contribution for this repo). If you are planning to show this typeface to someone or submit it to a font collection, do **link this repository**.
 
+See the specimen here: https://www.behance.net/gallery/215827069/Hebdomadal-Typeface
+
 ![Hebdomadal_1](https://github.com/RandomMaerks/Hebdomadal/blob/main/documentation/hebd-a1.png)
 ![Hebdomadal_2](https://github.com/RandomMaerks/Hebdomadal/blob/main/documentation/hebd-a2.png)
 ![Hebdomadal_3](https://github.com/RandomMaerks/Hebdomadal/blob/main/documentation/hebd-a3.png)
